@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: segitiga
+Version: 0.0.0
+Summary: test package
+Author: zidan
+Author-email: zidanalizaqi51@xxx.com}
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+# segitiga

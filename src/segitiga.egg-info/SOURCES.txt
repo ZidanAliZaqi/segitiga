@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/segitiga/__init__.py
+src/segitiga/segitiga.py
+src/segitiga/utils.py
+src/segitiga.egg-info/PKG-INFO
+src/segitiga.egg-info/SOURCES.txt
+src/segitiga.egg-info/dependency_links.txt
+src/segitiga.egg-info/requires.txt
+src/segitiga.egg-info/top_level.txt

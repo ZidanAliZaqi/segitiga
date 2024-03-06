@@ -1,0 +1,46 @@
+action: GLOB, msg: packaging
+cwd: C:\Users\abcd\Desktop\segitiga
+cmd: 'C:\Users\abcd\anaconda3\envs\segitiga\python.exe' setup.py sdist --formats=zip --dist-dir '.tox\dist'
+running sdist
+running egg_info
+writing src\segitiga.egg-info\PKG-INFO
+writing dependency_links to src\segitiga.egg-info\dependency_links.txt
+writing requirements to src\segitiga.egg-info\requires.txt
+writing top-level names to src\segitiga.egg-info\top_level.txt
+reading manifest file 'src\segitiga.egg-info\SOURCES.txt'
+writing manifest file 'src\segitiga.egg-info\SOURCES.txt'
+running check
+creating segitiga-0.0.0
+creating segitiga-0.0.0\src
+creating segitiga-0.0.0\src\segitiga
+creating segitiga-0.0.0\src\segitiga.egg-info
+copying files to segitiga-0.0.0...
+copying README.md -> segitiga-0.0.0
+copying setup.py -> segitiga-0.0.0
+copying src\segitiga\__init__.py -> segitiga-0.0.0\src\segitiga
+copying src\segitiga\segitiga.py -> segitiga-0.0.0\src\segitiga
+copying src\segitiga\utils.py -> segitiga-0.0.0\src\segitiga
+copying src\segitiga.egg-info\PKG-INFO -> segitiga-0.0.0\src\segitiga.egg-info
+copying src\segitiga.egg-info\SOURCES.txt -> segitiga-0.0.0\src\segitiga.egg-info
+copying src\segitiga.egg-info\dependency_links.txt -> segitiga-0.0.0\src\segitiga.egg-info
+copying src\segitiga.egg-info\requires.txt -> segitiga-0.0.0\src\segitiga.egg-info
+copying src\segitiga.egg-info\top_level.txt -> segitiga-0.0.0\src\segitiga.egg-info
+Writing segitiga-0.0.0\setup.cfg
+creating '.tox\dist\segitiga-0.0.0.zip' and adding 'segitiga-0.0.0' to it
+adding 'segitiga-0.0.0'
+adding 'segitiga-0.0.0\src'
+adding 'segitiga-0.0.0\PKG-INFO'
+adding 'segitiga-0.0.0\README.md'
+adding 'segitiga-0.0.0\setup.cfg'
+adding 'segitiga-0.0.0\setup.py'
+adding 'segitiga-0.0.0\src\segitiga'
+adding 'segitiga-0.0.0\src\segitiga.egg-info'
+adding 'segitiga-0.0.0\src\segitiga\segitiga.py'
+adding 'segitiga-0.0.0\src\segitiga\utils.py'
+adding 'segitiga-0.0.0\src\segitiga\__init__.py'
+adding 'segitiga-0.0.0\src\segitiga.egg-info\dependency_links.txt'
+adding 'segitiga-0.0.0\src\segitiga.egg-info\PKG-INFO'
+adding 'segitiga-0.0.0\src\segitiga.egg-info\requires.txt'
+adding 'segitiga-0.0.0\src\segitiga.egg-info\SOURCES.txt'
+adding 'segitiga-0.0.0\src\segitiga.egg-info\top_level.txt'
+removing 'segitiga-0.0.0' (and everything under it)
